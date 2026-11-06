@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>
+    This application is intended for my personal use.
+    It accesses my Google Drive to read and update
+    Garmin training analysis files.
+  </p>
+  <p>
+    Training data is processed through my private
+    GitHub Actions workflow and stored in my Google Drive.
+    Authentication credentials are stored in private
+    GitHub Actions secrets.
+  </p>
+  <p>
+    I do not sell personal data or make my training
+    records publicly accessible.
+  </p>
+</body>
+</html>
