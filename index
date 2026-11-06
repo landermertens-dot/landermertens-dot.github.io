@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Personal Garmin Drive Sync</title>
+</head>
+<body>
+  <h1>Personal Garmin Drive Sync</h1>
+  <p>
+    This is a personal application used to synchronize
+    my Garmin training summaries with my own Google Drive.
+    It is not a public service.
+  </p>
+  <a href="/privacy.html">Privacy Policy</a>
+</body>
+</html>
